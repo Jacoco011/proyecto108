@@ -1,0 +1,46 @@
+body
+{
+    background: #ffdef7;
+}
+
+.header_div 
+{
+    background: rgb(0, 0, 0);
+    color: #d7fc03;
+    
+}
+
+.header_div p
+{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(242, 219, 129);
+    letter-spacing: 1px;
+    font-size: 10px;
+    font-weight: bold;
+    width: 100%;
+}
+
+.main_div button
+{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    color: blue;
+}
+
+
+
+.pie_página_copy_right
+{
+    position: fixed;
+    color: #ebada7;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #5d4a25;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(172, 184, 245);
+}
